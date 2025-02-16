@@ -2,7 +2,7 @@
 ======================
 Podklady pro přednášku do předmětu IPP pro rok 2025
 
-* [Prezentace](https://github.com/regeciovad/IPP-2025/blob/main/slides.pdf)
+* [Prezentace](https://github.com/regeciovad/IPP-2025/blob/main/IPP_2025.pdf)
 * [Příklady](https://github.com/regeciovad/IPP-2025/tree/main/examples)
 * [Odkaz na přednášku Petra Zemka z roku 2021](https://github.com/s3rvac/talks/tree/master/2021-03-08-Introduction-to-Python)
 
